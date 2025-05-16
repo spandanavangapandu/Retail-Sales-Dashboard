@@ -64,7 +64,7 @@ RetailScope/
 
 ## 📸 Preview
 
-![Dashboard Visual](dashboard/Dashboardvisual.png)
+![Dashboard Visual](https://github.com/spandanavangapandu/Retail-Sales-Dashboard/blob/main/Dashboard/Dashboardvisual.png)
 
 ---
 
