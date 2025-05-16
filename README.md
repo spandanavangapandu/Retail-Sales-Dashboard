@@ -34,7 +34,7 @@ RetailScope/
 │
 ├── dashboard/
 │   ├── Retail Sales Dashboard.twb  # Tableau workbook
-│   └── Monthly_Sales_Trend.png     # Exported visual for documentation
+│   └── Dashboardvisual.png     # Exported visual for documentation
 │
 ├── scripts/
 │   └── RetailScope_Analysis.py     # Data processing using pandas
@@ -64,7 +64,7 @@ RetailScope/
 
 ## 📸 Preview
 
-![Monthly Sales Trend](dashboard/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](dashboard/Dashboardvisual.png)
 
 ---
 
@@ -87,9 +87,7 @@ Data was cleaned using `RetailScope_Analysis.py` to:
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
-Data Analyst | Tableau Developer  
-[LinkedIn] | [GitHub]
+SPANDANA VANGAPANDU
 
 ---
 
