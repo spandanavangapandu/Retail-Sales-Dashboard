@@ -64,7 +64,7 @@ RetailScope/
 
 ## 📸 Preview
 
-![Monthly Sales Trend](dashboard/Dashboardvisual.png)
+![Dashboard Visual](dashboard/Dashboardvisual.png)
 
 ---
 
